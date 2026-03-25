@@ -6,4 +6,5 @@ SQL 쿼리 연습
 ```text
 Programmers
   SELECT
+  SUM, MAX, MIN
 ```
