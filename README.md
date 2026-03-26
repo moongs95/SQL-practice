@@ -7,4 +7,6 @@ SQL 쿼리 연습
 Programmers
   SELECT
   SUM, MAX, MIN
+  GROUP BY
+  JOIN
 ```
