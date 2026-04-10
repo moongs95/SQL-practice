@@ -9,4 +9,5 @@ Programmers
   SUM, MAX, MIN
   GROUP BY
   JOIN
+  IS NULL
 ```
